@@ -1,4 +1,4 @@
-Monthly updates of global atmospheric moisture content and anomaly.
+Monthly updates of global climatic extremes as derived from ERA5.
 
 **Monthly atmospheric moisture anomaly**
 ![Image](https://github.com/BenNollWeather/atmospheric_moisture/blob/main/tcw_map.png?raw=true)
